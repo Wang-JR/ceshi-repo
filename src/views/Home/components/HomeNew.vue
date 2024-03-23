@@ -1,0 +1,10 @@
+<script setup>
+
+</script>
+
+<template>
+    我是新鲜好物
+</template>
+
+<style lang="less" scoped>
+</style>
